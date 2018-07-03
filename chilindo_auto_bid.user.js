@@ -19,6 +19,7 @@
     // PRODUCT TABLE
     var productTable = [
         'đèn',
+    'ấm điện',
         'đai',
         'loa',
         'pin',
@@ -30,6 +31,7 @@
     // TABLE OF PRICE
     var priceTable = {
         'đèn': 5,
+        'ấm điện' : 50,
         'đai': 10,
         'loa': 15,
         'pin': 15,
